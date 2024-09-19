@@ -125,7 +125,8 @@ struct ContentView: View {
             }
         }
         .padding(.horizontal, 20)
-        //kkk
+        //kkkgghghgh
+        Text("kjvcvfvfvfkjkj")
     }
 }
 
